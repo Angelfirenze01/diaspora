@@ -10,7 +10,7 @@
 
 [Project site](https://diasporafoundation.org) |
 [Wiki](https://wiki.diasporafoundation.org) |
-[Bugtracker](https://github.com/diaspora/diaspora/issues) |
+[Bug Tracker](https://github.com/diaspora/diaspora/issues) |
 [Discussions and Support](https://discourse.diasporafoundation.org/) |
 [License](/COPYRIGHT) |
 [Authors](https://github.com/diaspora/diaspora/contributors)
